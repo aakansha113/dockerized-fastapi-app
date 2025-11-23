@@ -10,7 +10,7 @@ docker-fastapi/
 ## 📥 Clone This Repository
 To clone this portfolio on your local system, run:
 ```
-git clone https://github.com/aakansha113/dockerized-fastapi-app
+git clone https://github.com/aakansha113/Dockerized-fastapi-app
 ```
 ## Docker setup:
 ### 1. Build the Docker image
